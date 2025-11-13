@@ -1,4 +1,4 @@
-# CS 3380 – Task 2 (Extra Credit)  
+# Task 2 (Extra Credit)  
 SQL Retrieval Tasks on Fruit Prices Data
 
 This repository contains my solution for the CS 3380 extra credit assignment using the **Fruit-Prices-2022** dataset. The goal is to design three English retrieval tasks and write SQL queries that correctly answer each task, plus explain whether each query is correct and why.
